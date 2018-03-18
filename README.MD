@@ -13,7 +13,7 @@ Simple todo app with laravel, vue.js and tailwindcss.
 Clone repository and cd into folder
 
 ```sh
-git clone 
+git clone https://github.com/pikarin/todo-app.git
 cd todo-app
 ```
 
